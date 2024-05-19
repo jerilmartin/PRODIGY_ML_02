@@ -10,7 +10,7 @@ This project utilizes the K-Means clustering algorithm to group retail store cus
 
 ## Data
 - `Mall_Customers.csv`: Customer data with features for clustering.
-- `kmeans_clustering.py`: Script for executing the clustering algorithm.
+- `t2.py`: Script for executing the clustering algorithm.
 
 ## Results
 - Optimal Clusters: 5
