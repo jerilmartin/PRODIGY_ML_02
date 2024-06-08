@@ -21,4 +21,4 @@ This project utilizes the K-Means clustering algorithm to group retail store cus
 Contributions to improve the clustering model or visualization are welcome. Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is released under the MIT License. See the LICENSE file for details.
+This project is released under the MIT License.
